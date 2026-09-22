@@ -3,4 +3,4 @@ This repository hosts the Jupyter Notebook of a Toy Machine Learning model that 
 
 The Iris dataset is retrieved from the UC Irvine Machine Learning Repository: Fisher, R. (1936). Iris [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.
 
-
+This repository is archived in Zenodo (and Software Heritage) with the DOI: https://doi.org/10.5281/zenodo.22896120. 

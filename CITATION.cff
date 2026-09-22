@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Toy Machine Learning Model for FAIR example"
+version: 1.0.0
+license: "MIT"
+type: software
+abstract: "This repository hosts the Jupyter Notebook of a Toy Machine Learning model that will be used as an example of FAIR principles applied to AI models at a very basic level. In particular, it contains a basic ML model, i.e., a classifier trained on the Iris dataset with the k-neighbors algorithm."
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Filippo
+    family-names: Vasone
+    affiliation: University of Bologna
+    orcid: "https://orcid.org/0009-0000-9125-8813"
+keywords:
+  - computer science
+  - Machine Learning
+  - Artificial Intelligence
+  - FAIR research data management
